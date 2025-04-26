@@ -1,0 +1,72 @@
+[
+  {
+    "items": [
+      {
+        "name": "samosa",
+        "price": 100.0,
+        "quantity": 10
+      }
+    ],
+    "total_amount": 1000.0,
+    "date": "2025-04-26",
+    "id": 1745650581350,
+    "timestamp": "2025-04-26 12:26:21"
+  },
+  {
+    "items": [
+      {
+        "name": "samosa",
+        "price": 100.0,
+        "quantity": 8
+      }
+    ],
+    "total_amount": 800.0,
+    "date": "2025-04-26",
+    "id": 1745650784221,
+    "timestamp": "2025-04-26 12:29:44"
+  },
+  {
+    "items": [
+      {
+        "name": "Aloo Puff",
+        "price": 20.0,
+        "quantity": 2
+      },
+      {
+        "name": "samosa",
+        "price": 100.0,
+        "quantity": 22
+      }
+    ],
+    "total_amount": 2240.0,
+    "date": "2025-04-26",
+    "id": 1745651021429,
+    "timestamp": "2025-04-26 12:33:41"
+  },
+  {
+    "items": [
+      {
+        "name": "Aloo Puff",
+        "price": 20.0,
+        "quantity": 32
+      }
+    ],
+    "total_amount": 640.0,
+    "date": "2025-04-26",
+    "id": 1745651497841,
+    "timestamp": "2025-04-26 12:41:37"
+  },
+  {
+    "items": [
+      {
+        "name": "Aloo Puff",
+        "price": 20.0,
+        "quantity": 6
+      }
+    ],
+    "total_amount": 120.0,
+    "date": "2025-04-26",
+    "id": 1745651504369,
+    "timestamp": "2025-04-26 12:41:44"
+  }
+]

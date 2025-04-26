@@ -1,0 +1,23 @@
+[
+  {
+    "name": "samosa",
+    "category": "Food",
+    "price": 100.0,
+    "description": "",
+    "shortcut": "ctrl+a",
+    "initial_stock": 12,
+    "id": 1745650444237,
+    "created_at": "2025-04-26 12:24:04",
+    "updated_at": "2025-04-26 12:29:35"
+  },
+  {
+    "name": "Aloo Puff",
+    "category": "Food",
+    "price": 20.0,
+    "description": "",
+    "shortcut": "P+K",
+    "initial_stock": 20,
+    "id": 1745650929118,
+    "created_at": "2025-04-26 12:32:09"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "name": "samosa",
+    "quantity": 0,
+    "last_updated": "2025-04-26 12:33:41"
+  },
+  {
+    "name": "Aloo Puff",
+    "quantity": 0,
+    "last_updated": "2025-04-26 12:41:44"
+  }
+]
